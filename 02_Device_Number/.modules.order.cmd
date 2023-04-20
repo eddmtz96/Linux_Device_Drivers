@@ -1,0 +1,1 @@
+cmd_/home/oem/Documents/Programming/Linux_Driver_Tutorial/02_Device_Number/modules.order := {   echo /home/oem/Documents/Programming/Linux_Driver_Tutorial/02_Device_Number/dev_nr.ko; :; } | awk '!x[$$0]++' - > /home/oem/Documents/Programming/Linux_Driver_Tutorial/02_Device_Number/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/oem/Documents/Programming/Linux_Driver_Tutorial/01_Simple_LKM/mymodule.mod := { echo  /home/oem/Documents/Programming/Linux_Driver_Tutorial/01_Simple_LKM/mymodule.o;  echo; } > /home/oem/Documents/Programming/Linux_Driver_Tutorial/01_Simple_LKM/mymodule.mod

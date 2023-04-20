@@ -1,0 +1,1 @@
+cmd_/home/oem/Documents/Programming/Linux_Driver_Tutorial/02_Device_Number/dev_nr.mod := { echo  /home/oem/Documents/Programming/Linux_Driver_Tutorial/02_Device_Number/dev_nr.o;  echo; } > /home/oem/Documents/Programming/Linux_Driver_Tutorial/02_Device_Number/dev_nr.mod
